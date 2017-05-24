@@ -5,6 +5,7 @@
 
 ## JavaScript
 - [JavaScript 标准参考教程-阮一峰](http://javascript.ruanyifeng.com/)
+- [ECMAScript 6](http://es6.ruanyifeng.com)
 
 ## blog
 - [阮一峰博客](http://www.ruanyifeng.com/blog/)
