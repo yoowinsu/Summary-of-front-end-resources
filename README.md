@@ -12,3 +12,9 @@
 - [汤姆大叔的博客](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 - [张鑫旭的博客](http://www.zhangxinxu.com/)
 - [小胡子哥的博客](http://barretlee.com/entry/)
+
+## 文档
+- [前端开发中文文档导航](http://cndevdocs.com/)
+
+## 资源库
+- [百度静态资源公共库](http://cdn.code.baidu.com/#)
