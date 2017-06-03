@@ -1,5 +1,5 @@
-# The-best-quality-front-end-information
-  整理最优质前端资料（长期更新）
+# Summary of front-end resources
+  前端资源汇总（长期更新）
 ## 编码规范 
 - [mdo写的编码规范中文翻译版](http://codeguide.bootcss.com/#css-declaration-order)
 
@@ -18,3 +18,6 @@
 
 ## 资源库
 - [百度静态资源公共库](http://cdn.code.baidu.com/#)
+
+## 前端优化
+- [高性能JavaScript编程](http://blog.stoatme.com/usr/uploads/2013/07/4214363339.pdf)
